@@ -1,6 +1,6 @@
 # Diego Montoya
 
-<h2 align="center">About me</h2>
+<h2 align="center">Acerca de mi</h2>
 
 ```golang
 package main
@@ -19,13 +19,11 @@ func main() {
 
 func GetBio() Bio {
 	return Bio{
-		"- ⚡ Quick bio:":                    "A kind of metalHead-melomaniac-gearAddict-amateurMusician-traveler-foodLover-gamer-coder-programmer-catLover-sportsAficionado hybrid",
-		"- 🔭 I’m currently working on":      "Tredicom as a Senior Software Developer --- UAdeC as a Part Time Teacher",
-		"- 🌱 I’m currently learning":        "Golang, MongoDB, RabbitMQ, K8s, GCP (Tech stack from my company) --- Sharpening my Front End Skills for the MERN stack (Personal goal)",
-		"- 👯 I’m looking to collaborate on": "Python, Golang and Docker related projects",
-		"- 🤔 I’m looking for help with":     "Anything related to what I am currently learning 😅",
-		"- 💬 Ask me about":                  "Python, PHP, Laravel, SQL, Software Design & Architecture, Web-Dev and SEO",
-		"- 📫 How to reach me:":              "https://github.com/AnhellO#you-can-reach-me-at-alien",
+		"- ⚡ Biografía rápida:":                    "Me gusta viajar, conocer nuevos lugares, aprender de diferentes personas - Travel - Programar - Coder - Gamer (GBA - PC)",
+		"- 🔭 Actualmente estoy trabajando en":      "Medipiel www.medipiel.com.co como Desarrollador Vtex",
+		"- 🌱 Actualmente estoy aprendiendo":        "MongoDB, Firebase y optimizando mis habilidades tanto en front como en back y así ser un excelente Fullstack",
+		"- 🤔 Busco ayuda con":     "Lo que sea, desde que podamos crear un aprendizaje mutuo 😅",
+		"- 📫 Como llegar a mi:":              "https://www.diegomontoya.co",
 	}
 }
 ```
